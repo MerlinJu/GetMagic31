@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GetMagic31
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me --> not yet
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Tailwind CSS
+- 📫 How to reach me --> m.jupe@gmx.de
 
 <!---
 GetMagic31/GetMagic31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

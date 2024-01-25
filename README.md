@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @GetMagic31
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Tailwind CSS
-- 📫 How to reach me --> m.jupe@gmx.de
+👋 Hi, I’m Merlin Jupe, a Student interested in coding and cyber security. 
+
 
 <!---
 GetMagic31/GetMagic31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
